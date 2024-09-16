@@ -65,3 +65,21 @@ Années 1980 : l’intelligence artificielle traverse une période de ralentisse
 2021 : la Chine lance le projet "Made in China 2025", prévoyant d’importants investissements dans l’IA.
 
 2021 : la FDA (Food and Drug Administration, l’agence nationale du médicament américain) approuve le premier système d’IA pour l’imagerie médicale, capable d’aider au diagnostic du cancer du sein.
+
+## L'IA Generative
+
+L’intelligence artificielle a évolué bien au-delà de simples programmes exécutant des tâches prédictibles. L’une des avancées les plus intrigantes et captivantes de l’IA est sa capacité à créer, à imaginer et à générer des contenus originaux. Cette facette fascinante est appelée : « IA générative ».
+
+L’IA générative ouvre de fait de nouvelles perspectives dans l’innovation, dans l’art, dans le divertissement et même dans la résolution de problèmes complexes.
+
+Elle repose sur des réseaux neuronaux d’apprentissage profond, tels que les réseaux génératifs adverses, en français, que vous retrouverez également en anglais sous son acronyme GAN (Generative Adversarial Networks), ainsi que les Transformers que nous aborderons au fur et à mesure dans cet ouvrage. Ces réseaux sont entraînés à partir d’énormes volumes de données et une fois entraînés, ils peuvent générer des données nouvelles et originales qui ressemblent à celles sur lesquelles ils ont été formés.
+
+L’IA générative peut également créer des images réalistes, des compositions musicales et même des textes cohérents. Les GAN (réseaux génératifs adverses) sont célèbres pour leur capacité à générer des images qui semblent être le produit d’un artiste humain, mais qui n’existent en réalité que dans le code informatique.
+
+Les Transformers, quant à eux, sont excellents pour générer des morceaux de texte, qu’il s’agisse de poèmes, de scripts de films ou d’articles de blog, nous y reviendrons tout au long du chapitre DALL-E : exploiter la créativité de l’IA.
+
+Avec tout cela, notre IA dite générative dispose de champs d’applications vastes et variés. Dans le monde de l’art, elle peut créer des œuvres visuelles et musicales inédites, ouvrant de nouvelles voies créatives pour les artistes et vraisemblablement de nouveaux métiers... Dans le domaine du divertissement, elle peut, par exemple être utilisée pour générer des personnages et des scénarios pour les jeux vidéo. Enfin, dans la conception de produits, l’IA générative peut proposer des concepts innovants en fonction des critères émis en entrée.
+
+L’IA générative ne doit pas être perçue comme une menace pour la créativité humaine, mais plutôt comme un outil collaboratif, parfois même un assistant. Les artistes peuvent utiliser l’IA comme source d’inspiration ou de génération de concepts originaux, avant d’ajouter une touche un peu plus personnelle. Cette combinaison de l’intelligence humaine et artificielle devrait aboutir à des œuvres innovantes et stimulantes qui révolutionneront bon nombre d’industries.
+
+En comprenant le potentiel et les limites de l’IA générative, nous pouvons dès à présent explorer comment elle transforme notre compréhension de la créativité, redéfinissant ce que signifie être un artiste et comment les machines peuvent participer à l’acte créatif. L’IA générative n’est pas simplement une manifestation technologique, mais un tremplin pour de nouvelles idées et de nouvelles perspectives dans le monde de la création qui est finalement infini.
