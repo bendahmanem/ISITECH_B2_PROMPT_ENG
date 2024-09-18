@@ -477,3 +477,59 @@ Création de musique : les GAN peuvent être utilisés pour créer de la musique
 ![alt text](image-21.png)
 
 <u>Figure: **ChatGPT et comment rédiger des prompts**</u>
+
+#### Conseils pour bien parler à ChatGPT
+
+ChatGPT est conçu pour comprendre et générer du texte de manière fluide, ce qui permet des interactions humain-machine plus naturelles que jamais. Mais comme pour toute nouvelle technologie, il existe un ensemble de bonnes pratiques à suivre pour optimiser ces interactions. Que vous soyez un utilisateur curieux ou un professionnel cherchant à exploiter pleinement le potentiel de ChatGPT, ces conseils vous fourniront des éléments avancés permettant de dialoguer efficacement avec cette IA générative.
+
+##### Adopter le R.A.C.A
+
+Adoptez l’acronyme R.A.C.A pour ChatGPT et transmettez-lui systématiquement :
+
+- R pour Rôle
+
+Identifiez dans un premier temps quel sera le rôle principal de ChatGPT.
+
+- A pour Action
+
+Définissez ensuite l’action précise que vous souhaitez que ChatGPT réalise.
+
+- C pour Contexte
+
+Indiquez le contexte d’utilisation.
+
+- A pour Attente
+
+Précisez vos attentes avec une description détaillée.
+
+Ajoutez à cela cette liste non exhaustive de conseils vous permettant d’améliorer considérablement votre relation avec ChatGPT, précisez-lui les éléments présents dans la liste ci-dessous :
+
+Le ton à employer (décontracté, intrusif, informatif, persuasif).
+
+Les contraintes limitantes (le nombre de mots ou de caractères).
+
+La langue : la réponse sera potentiellement différente de celle indiquée dans le prompt.
+
+Un appel à action : demandez-lui de constituer ou de vous aider à constituer les prochaines étapes de votre projet.
+
+Un apport statistique : en encourageant l’utilisation de chiffres clés dans un objectif de justification des affirmations relatées.
+
+L’ajout de citations ou de déclaration d’experts et d’ingénieurs en maîtrise sur la thématique abordée.
+
+Le format de retour du prompt.
+
+Agir en tant que : indiquez un rôle ou une perspective à adopter (par exemple, expert, critique, passionné).
+
+Les différences d’opinions : afin de peser les pours et les contres.
+
+La sensibilité : dès lors que vous souhaitez travailler des sujets sensibles, vous pouvez spécifier à ChatGPT de traiter avec précaution ces derniers.
+
+L’objectif du prompt : même si cela semble évident, indiquez-le de préférence, vous en verrez la pertinence du résultat grandement améliorée.
+
+Le contexte : au même titre que l’objectif mentionné précédemment, fournissez systématiquement le « pourquoi » pour une meilleure génération de contenu.
+
+Les exemples de style, de structure ou de contenu souhaités.
+
+Le public cible : spécifiez-le au prompt pour une meilleure interaction du résultat.
+
+Éléments visuels : renseignez-vous sur l’inclusion de tableaux, de graphiques ou d’images.
