@@ -426,3 +426,5 @@ L’un des avantages de ces modèles LLM, y compris chez ChatGPT, est leur polyv
 Cependant, il est important de noter que ces modèles ne sont pas exempts de défis, notamment en ce qui concerne la gestion des biais dans les réponses générées, la nécessité de données de haute qualité pour l’entraînement, et les questions liées à la sécurité et à l’éthique dans leur utilisation.
 
 En résumé, ChatGPT est un exemple spécifique de LLM qui partage des caractéristiques et des techniques communes avec d’autres modèles de ce type. Ils ont tous le potentiel d’améliorer la communication et l’interaction humaine avec des systèmes informatiques.
+
+## Le fine tuning avec Gemini
