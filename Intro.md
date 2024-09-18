@@ -428,3 +428,52 @@ Cependant, il est important de noter que ces modèles ne sont pas exempts de dé
 En résumé, ChatGPT est un exemple spécifique de LLM qui partage des caractéristiques et des techniques communes avec d’autres modèles de ce type. Ils ont tous le potentiel d’améliorer la communication et l’interaction humaine avec des systèmes informatiques.
 
 ## Le fine tuning avec Gemini
+
+(cf document sur Gemini)
+
+## Suite du cours magistral
+
+### Les reseaux de neurones
+
+![alt text](image-19.png)
+
+<u>Figure: **Les réseaux de neurones (le plus exhaustif possible **</u>
+Source : [https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464](les reseaux de neurones)
+
+#### Les couches du reseau de neurones
+
+![alt text](image-20.png)
+
+Vous l’imaginez bien, les réseaux de neurones sont utilisés dans une plénitude de domaines en intelligence artificielle. Ces derniers ont montré toute leur efficacité dans différentes tâches d’intelligence artificielle. Voici quelques exemples de cas d’utilisation :
+
+- Reconnaissance d’images : les réseaux de neurones convolutifs (Convolutional Neural Networks ou son acronyme CNN) sont pleinement utilisés pour la reconnaissance d’images. Ils ont la capacité à apprendre à identifier des objets, des visages ou bien même des émotions dans des images. Cette technologie est utilisée dans les applications de reconnaissance faciale, la détection de fraudes, l’analyse médicale, etc.
+
+- Traitement du langage naturel : les réseaux de neurones récurrents (Recurrent Neural Networks ou RNN) sont utilisés pour le traitement du langage naturel. Ils peuvent comprendre et générer du texte, traduire des langues, répondre à des questions, et même produire des sous-titres automatiques pour les vidéos. Les assistants virtuels comme Siri de chez Apple ou bien encore l’Alexa d’Amazon utilisent également cette technologie afin de comprendre des paroles et répondre à des requêtes.
+
+- Prévision et recommandation : les réseaux de neurones sont également utilisés pour la prévision et la recommandation, comme dans le cas des systèmes de recommandation sur les plateformes de streaming et d’e-commerce. Ces réseaux peuvent analyser vos préférences sans réellement que vous vous en rendiez compte et vous fournira des recommandations personnalisées, améliorant ainsi (ou pas) votre expérience utilisateur.
+
+- Jeux et robotique : les exemples d’utilisation des réseaux de neurones sont réellement infinis, une fois encore il serait possible d’y dédier un ouvrage entier. Nous avons choisi à travers ce chapitre de partager l’exemple d’utilisation sur un phénomène plus que jamais dans l’air du temps, à savoir les jeux vidéo et la robotique. Les algorithmes de Deep Renforcement Learning utilisent des réseaux de neurones pour apprendre à jouer à des jeux et à prendre des décisions intelligentes. Les fameux BOT dans les jeux vidéo font référence à un programme informatique conçu pour effectuer des actions automatiques et nous donnent aujourd’hui du fil à retordre dans un jeu. Les bots peuvent être utilisés à diverses fins, notamment pour automatiser certaines tâches répétitives, pour générer des ressources de manière autonome, ou même pour jouer contre d’autres joueurs. qui nous donne aujourd’hui tant de fil à retordre. Les fameux BOT. Un exemple d’avancée majeure concerne AlphaGo, un programme basé bien évidemment sur les réseaux de neurones et a battu les meilleurs joueurs humains au jeu de Go.
+
+#### Les RN generatifs
+
+Les réseaux neuronaux génératifs sont un type de réseau de neurones artificiels qui peuvent être utilisés pour générer de nouvelles données, telles que des images, du texte ou de la musique. Ils sont basés sur un principe appelé apprentissage génératif, qui consiste à apprendre un modèle de la distribution des données d’entrée. Ce modèle peut ensuite être utilisé pour générer de nouvelles données qui sont similaires aux données d’entrée.
+
+Un GAN (Generative Adversarial Network) est un type de modèle d’apprentissage automatique qui se compose de deux réseaux de neurones, un générateur et un discriminateur, qui sont formés simultanément de manière antagoniste. Le générateur est responsable de la génération de nouvelles données, tandis que le discriminateur est responsable de l’évaluation de la qualité de ces données. Les GAN sont une classe d’algorithmes d’apprentissage génératif qui ont été introduits en 2014 par Ian Goodfellow et ses collègues.
+
+Le générateur est entraîné à générer des données qui sont capables de tromper le discriminateur. Le discriminateur est entraîné à distinguer les données générées par le générateur des données réelles. Au fil du temps, le générateur devient plus performant pour générer des données qui sont similaires aux données réelles, tandis que le discriminateur devient plus performant pour distinguer les données générées des données réelles.
+
+Les GAN ont été utilisés dans de nombreuses applications, telles que la génération d’images, la synthèse de texte et la création de musique. Ils sont encore en développement, mais ils ont le potentiel de révolutionner de nombreux domaines.
+
+Voici quelques exemples d’applications des GAN :
+
+Génération d’images : les GAN peuvent être utilisés pour générer des images réalistes, même si elles sont complètement fictives. Cette technologie est utilisée dans les jeux vidéo, le cinéma et la publicité.
+
+Synthèse de texte : les GAN peuvent être utilisés pour générer du texte réaliste, même si c’est de la fiction. Cette technologie est utilisée pour créer des chatbots, des générateurs de contenu et des traducteurs automatiques.
+
+Création de musique : les GAN peuvent être utilisés pour créer de la musique réaliste, même si c’est de la musique originale. Cette technologie est utilisée pour créer des générateurs de musique, des producteurs musicaux et des musiciens virtuels.
+
+### Chat GPT et comment rediger des prompts
+
+![alt text](image-21.png)
+
+<u>Figure: **ChatGPT et comment rédiger des prompts**</u>
