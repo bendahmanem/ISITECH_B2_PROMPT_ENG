@@ -533,3 +533,16 @@ Les exemples de style, de structure ou de contenu souhaités.
 Le public cible : spécifiez-le au prompt pour une meilleure interaction du résultat.
 
 Éléments visuels : renseignez-vous sur l’inclusion de tableaux, de graphiques ou d’images.
+
+## Consignes Applications ChatBOT:
+
+- connecter une application a l'API gemini de Google
+- Créer une interface (web, mobile ou client lourd) permettant de dialoguer avec l'IA
+- Configurer votre chatbot avec le fine tuning
+- Créer des prompts pour votre chatbot qui permettent d'affiner le scope des reponses, d'apporter des reponses pertinentes, formatées, et de qualité.
+
+Pour chacun de ces points vous redigerez un document expliquant les étapes, les choix, les difficultés rencontrées, les solutions apportées, les résultats obtenus, les perspectives d'amélioration.
+
+Le type de technologie choisi doit etre presenté et expliqué brievement.
+
+On s'attend à ce que toutes ces informations figurent au sein d'un fichier README.md dans votre repository Github. Toute autre information qui permettrait de mieux comprendre votre travail est la bienvenue.
