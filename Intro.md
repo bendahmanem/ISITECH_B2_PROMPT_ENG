@@ -536,7 +536,7 @@ Le public cible : spécifiez-le au prompt pour une meilleure interaction du rés
 
 ## Consignes Applications ChatBOT:
 
-- connecter une application a l'API gemini de Google
+- connecter une application avec l'API gemini de Google
 - Créer une interface (web, mobile ou client lourd) permettant de dialoguer avec l'IA
 - Configurer votre chatbot avec le fine tuning
 - Créer des prompts pour votre chatbot qui permettent d'affiner le scope des reponses, d'apporter des reponses pertinentes, formatées, et de qualité.
